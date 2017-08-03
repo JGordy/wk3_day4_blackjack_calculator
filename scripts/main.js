@@ -31,7 +31,6 @@ let acePlayed = false;
     }
 
   }
-console.log(total);
   return total;
 }
 
